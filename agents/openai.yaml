@@ -1,0 +1,4 @@
+interface:
+  display_name: "拯救废片"
+  short_description: "修复废片并做摄影级审美提升"
+  default_prompt: "Use $rescue-bad-photo on this uploaded photo."
