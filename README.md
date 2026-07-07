@@ -50,12 +50,29 @@
 rescue-bad-photo/
   SKILL.md
   README.md
+  photos/
+    1.jpg
+    1_ai_beauty.png
+    2.jpg
+    2_ai_beauty.png
+    3.jpg
+    3_ai_beauty.png
   agents/
     openai.yaml
   references/
     photo-rescue-guide.md
     photographic-style-playbook.md
 ```
+
+## 效果对比
+
+以下示例展示原图与使用技能后的 `ai_beauty` 美化效果对比。
+
+| 示例 | 原图 | AI 美化版 |
+| --- | --- | --- |
+| 1 | ![示例 1 原图](photos/1.jpg) | ![示例 1 AI 美化版](photos/1_ai_beauty.png) |
+| 2 | ![示例 2 原图](photos/2.jpg) | ![示例 2 AI 美化版](photos/2_ai_beauty.png) |
+| 3 | ![示例 3 原图](photos/3.jpg) | ![示例 3 AI 美化版](photos/3_ai_beauty.png) |
 
 ## 关键参考文件
 
