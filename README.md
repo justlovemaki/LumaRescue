@@ -68,22 +68,22 @@ rescue-bad-photo/
 
 以下示例展示原图与使用技能后的 `ai_beauty` 美化效果对比。
 
-<table>
+<table width="100%">
   <tr>
-    <th style="width: 50%;">原图</th>
-    <th style="width: 50%;">AI 美化版</th>
+    <th width="50%">原图</th>
+    <th width="50%">AI 美化版</th>
   </tr>
   <tr>
-    <td style="width: 50%;"><img src="photos/1.jpg" alt="示例 1 原图" /></td>
-    <td style="width: 50%;"><img src="photos/1_ai_beauty.png" alt="示例 1 AI 美化版" /></td>
+    <td width="50%"><img src="photos/1.jpg" alt="示例 1 原图" width="100%" /></td>
+    <td width="50%"><img src="photos/1_ai_beauty.png" alt="示例 1 AI 美化版" width="100%" /></td>
   </tr>
   <tr>
-    <td style="width: 50%;"><img src="photos/2.jpg" alt="示例 2 原图" /></td>
-    <td style="width: 50%;"><img src="photos/2_ai_beauty.png" alt="示例 2 AI 美化版" /></td>
+    <td width="50%"><img src="photos/2.jpg" alt="示例 2 原图" width="100%" /></td>
+    <td width="50%"><img src="photos/2_ai_beauty.png" alt="示例 2 AI 美化版" width="100%" /></td>
   </tr>
   <tr>
-    <td style="width: 50%;"><img src="photos/3.jpg" alt="示例 3 原图" /></td>
-    <td style="width: 50%;"><img src="photos/3_ai_beauty.png" alt="示例 3 AI 美化版" /></td>
+    <td width="50%"><img src="photos/3.jpg" alt="示例 3 原图" width="100%" /></td>
+    <td width="50%"><img src="photos/3_ai_beauty.png" alt="示例 3 AI 美化版" width="100%" /></td>
   </tr>
 </table>
 
