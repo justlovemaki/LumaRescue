@@ -68,11 +68,24 @@ rescue-bad-photo/
 
 以下示例展示原图与使用技能后的 `ai_beauty` 美化效果对比。
 
-| 示例 | 原图 | AI 美化版 |
-| --- | --- | --- |
-| 1 | ![示例 1 原图](photos/1.jpg) | ![示例 1 AI 美化版](photos/1_ai_beauty.png) |
-| 2 | ![示例 2 原图](photos/2.jpg) | ![示例 2 AI 美化版](photos/2_ai_beauty.png) |
-| 3 | ![示例 3 原图](photos/3.jpg) | ![示例 3 AI 美化版](photos/3_ai_beauty.png) |
+<table>
+  <tr>
+    <th style="width: 50%;">原图</th>
+    <th style="width: 50%;">AI 美化版</th>
+  </tr>
+  <tr>
+    <td style="width: 50%;"><img src="photos/1.jpg" alt="示例 1 原图" /></td>
+    <td style="width: 50%;"><img src="photos/1_ai_beauty.png" alt="示例 1 AI 美化版" /></td>
+  </tr>
+  <tr>
+    <td style="width: 50%;"><img src="photos/2.jpg" alt="示例 2 原图" /></td>
+    <td style="width: 50%;"><img src="photos/2_ai_beauty.png" alt="示例 2 AI 美化版" /></td>
+  </tr>
+  <tr>
+    <td style="width: 50%;"><img src="photos/3.jpg" alt="示例 3 原图" /></td>
+    <td style="width: 50%;"><img src="photos/3_ai_beauty.png" alt="示例 3 AI 美化版" /></td>
+  </tr>
+</table>
 
 ## 关键参考文件
 
